@@ -3,7 +3,7 @@ package Progtetelek;
 public class Progtetelek {
 
     private static final String SEP = System.lineSeparator();
-    private static final int[] sorozat = {3, 4, 12, 1, 8};
+    private static final int[] sorozat = {2, 5, 13, 8, 15};
 
     public static void main(String[] args) {
         progTetelekFelhaszn();
